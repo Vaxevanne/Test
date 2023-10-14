@@ -1,0 +1,43 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-size: 50px;
+}
+h3{
+    color: rgb(28, 168, 166);
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-image: url(phone_siteh.jpg);
+    background-size: cover;
+}
+p{
+    color: rgb(21, 145, 154);
+    text-align: center;
+    font-size: 20px;
+}
+img{
+    width: 700px;
+}
+.Buydeadcells{
+    text-decoration: none;
+    color: rgb(18, 208, 221);
+    font-size: 53px;
+    border: 0px solid rgb(27, 59, 177);
+    padding: 6px;
+    background: linear-gradient(#0e0c49,#110e62,#171377,#221ccd);
+    border-color: linear-gradient(#0e0c49,#110e62,#171377,#221ccd);
+    margin-left: 597px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    gap: 20%;
+}
+.dc1{
+    margin-left: 80px;
+}
